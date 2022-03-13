@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/webdev-project/static/css/main.f419fd80.chunk.css",
-    "main.js": "/webdev-project/static/js/main.691a16b1.chunk.js",
-    "main.js.map": "/webdev-project/static/js/main.691a16b1.chunk.js.map",
-    "runtime-main.js": "/webdev-project/static/js/runtime-main.15d38a76.js",
-    "runtime-main.js.map": "/webdev-project/static/js/runtime-main.15d38a76.js.map",
-    "static/js/2.3da0c1bf.chunk.js": "/webdev-project/static/js/2.3da0c1bf.chunk.js",
-    "static/js/2.3da0c1bf.chunk.js.map": "/webdev-project/static/js/2.3da0c1bf.chunk.js.map",
-    "index.html": "/webdev-project/index.html",
-    "static/css/main.f419fd80.chunk.css.map": "/webdev-project/static/css/main.f419fd80.chunk.css.map",
-    "static/js/2.3da0c1bf.chunk.js.LICENSE.txt": "/webdev-project/static/js/2.3da0c1bf.chunk.js.LICENSE.txt",
-    "static/media/PSU.335e2db1.jpg": "/webdev-project/static/media/PSU.335e2db1.jpg",
-    "static/media/cs.2438db3b.png": "/webdev-project/static/media/cs.2438db3b.png",
-    "static/media/email.29c75f17.jpg": "/webdev-project/static/media/email.29c75f17.jpg",
-    "static/media/About.css": "/webdev-project/static/media/girl-bg.669326bd.jpg",
-    "static/media/testing-lifecyle.86d5f858.png": "/webdev-project/static/media/testing-lifecyle.86d5f858.png"
+    "main.css": "/webdev-final-project/static/css/main.79274ec8.chunk.css",
+    "main.js": "/webdev-final-project/static/js/main.691a16b1.chunk.js",
+    "main.js.map": "/webdev-final-project/static/js/main.691a16b1.chunk.js.map",
+    "runtime-main.js": "/webdev-final-project/static/js/runtime-main.f4018cf1.js",
+    "runtime-main.js.map": "/webdev-final-project/static/js/runtime-main.f4018cf1.js.map",
+    "static/js/2.3da0c1bf.chunk.js": "/webdev-final-project/static/js/2.3da0c1bf.chunk.js",
+    "static/js/2.3da0c1bf.chunk.js.map": "/webdev-final-project/static/js/2.3da0c1bf.chunk.js.map",
+    "index.html": "/webdev-final-project/index.html",
+    "static/css/main.79274ec8.chunk.css.map": "/webdev-final-project/static/css/main.79274ec8.chunk.css.map",
+    "static/js/2.3da0c1bf.chunk.js.LICENSE.txt": "/webdev-final-project/static/js/2.3da0c1bf.chunk.js.LICENSE.txt",
+    "static/media/PSU.335e2db1.jpg": "/webdev-final-project/static/media/PSU.335e2db1.jpg",
+    "static/media/cs.2438db3b.png": "/webdev-final-project/static/media/cs.2438db3b.png",
+    "static/media/email.29c75f17.jpg": "/webdev-final-project/static/media/email.29c75f17.jpg",
+    "static/media/About.css": "/webdev-final-project/static/media/girl-bg.669326bd.jpg",
+    "static/media/testing-lifecyle.86d5f858.png": "/webdev-final-project/static/media/testing-lifecyle.86d5f858.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15d38a76.js",
+    "static/js/runtime-main.f4018cf1.js",
     "static/js/2.3da0c1bf.chunk.js",
-    "static/css/main.f419fd80.chunk.css",
+    "static/css/main.79274ec8.chunk.css",
     "static/js/main.691a16b1.chunk.js"
   ]
 }
